@@ -1,3 +1,6 @@
+Je n'aie pas mis l'history car je travailler en multi-terminal et je n'ai pas un history cohérent à proposer 
+donc je liste ma demarche de recherche
+
 Lire les instructions 
 
 Faire grep CLUE crimescene
@@ -24,7 +27,15 @@ faire des grep INTERVIEW dans chaque rue recuperer le numero de l'interview
 
 Faire un cat des interview avec les numero recuperer
 
+(optionnel) J'ai verifier la presence en tant que membres dans chaque 
+institution des cartes retrouver dans les indices
+
 en deduire le suspect numero 1
+
+Jeremy Bowers
+
+
+
 
 
 
