@@ -1,0 +1,30 @@
+Lire les instructions 
+
+Faire grep CLUE crimescene
+
+Lire les indices laisser 
+
+faire un grep Annabel people
+
+puis dans /street faire des grep INTERVIEW {nom des rue recuperer dans le grep de Annabel people }
+
+Récuperer les numero pour faire un cat de ces interview 
+
+recuperer la couleur le modele ainsi que l'imatriculation parciel L337 
+
+
+faire un grep -A5 L337 vehicles
+
+
+faire des grep dans people de tous les homme qui possede ce vehicule, et corresponde aux indice
+
+recuperer leur rue 
+
+faire des grep INTERVIEW dans chaque rue recuperer le numero de l'interview
+
+Faire un cat des interview avec les numero recuperer
+
+en deduire le suspect numero 1
+
+
+
