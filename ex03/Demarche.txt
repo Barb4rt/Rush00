@@ -1,4 +1,4 @@
-Je n'aie pas mis l'history car je travailler en multi-terminal et je n'ai pas un history cohérent à proposer 
+Je n'aie pas mis l'history car je travaille en multi-terminal et je n'ai pas un history cohérent à proposer 
 donc je liste ma demarche de recherche
 
 Lire les instructions 
